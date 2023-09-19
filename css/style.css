@@ -1,0 +1,13 @@
+header{
+    background-color: rgb(185, 111, 185);
+}
+.container{
+    width: 90%;
+}
+.rojo{
+    background-color: red;
+    color: aqua;
+}
+.rosa{
+    color: blueviolet;
+}
